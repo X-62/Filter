@@ -6,7 +6,7 @@ printf "To connect the proxy to the phone, you can go to the Wi-Fi or mobile int
 
 printf "____________________"
 
-echo "run"
+echo "_"
 
 nmap 127.0.0.1
 tor HTTPtunnelport 8000
