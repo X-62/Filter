@@ -24,7 +24,7 @@ git clone https://github.com/X-62/Filter
 
 cd Filter
 
-bash X62INSTALL.SH
+bash X62INSTALL.sh
 
 # Restore again
 
